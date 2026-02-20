@@ -31,8 +31,6 @@ A Python-based medical image viewer inspired by 3D Slicer, featuring multi-plana
 
 https://github.com/user-attachments/assets/ead1a953-9ae5-4a75-8a3f-91e248418c3e
 
-![WhatsApp Image 2026-02-20 at 3 36 47 PM](https://github.com/user-attachments/assets/1c52b09e-8213-42f0-95d6-cb88f3d0953a)
-
 
 
 
@@ -111,7 +109,7 @@ python main_viewer.py
 
 ## 📖 Usage Guide
 
-![WhatsApp Image 2026-02-20 ](https://github.com/user-attachments/assets/4e263776-7c4e-4e75-baa6-c77e81ae566f)
+![WhatsApp Image 2026-02-20 at 3 36 47 PM](https://github.com/user-attachments/assets/1c52b09e-8213-42f0-95d6-cb88f3d0953a)
 
 
 ### Loading Images
