@@ -25,11 +25,10 @@ A Python-based medical image viewer inspired by 3D Slicer, featuring multi-plana
 
 ---
 
-## 🖥️ Screenshots
+## 🖥️ Shots
 
-> _Add screenshots of the viewer here_
+![Uploading WhatsApp Image 2026-02-20 .jpeg…]()
 
----
 
 ## 🛠️ Requirements
 
