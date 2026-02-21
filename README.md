@@ -200,3 +200,17 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) — backbone for orientation classifier
 - [Google Gemini](https://deepmind.google/technologies/gemini/) — AI organ detection
 - [pydicom](https://pydicom.github.io/) — DICOM file handling
+
+---
+
+## 📧 Contact
+
+**Project Contributer**:Ahd Ahmed
+- Email: ahd.hassan06@eng-st.cu.edu.eg
+- [GitHub](https://github.com/ahdelrawy)
+- [LinkedIn](https://linkedin.com/in/ahd-elrawy)
+
+**Project Contributer**:habiba ibrahem
+- Email: habeba.ibrahem2016@gmail.com
+- [GitHub](habebai558-lgtm)
+- [LinkedIn]()
