@@ -210,7 +210,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [GitHub](https://github.com/ahdelrawy)
 - [LinkedIn](https://linkedin.com/in/ahd-elrawy)
 
-**Project Contributer**:habiba ibrahem
+**Project Contributer**:Habiba Ibrahem
 - Email: habeba.ibrahem2016@gmail.com
 - [GitHub](habebai558-lgtm)
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/habeba-zaki?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
